@@ -1,12 +1,12 @@
 meteor-url
 =================
 
-Meteor smart package for [node-url](https://github.com/defunctzombie/node-url).
+Meteor package for [node-url](https://github.com/defunctzombie/node-url).
 
 #Usage
 
-Install package from Atmosphere:
+Install package from Meteor:
 ```
-mrt add url 
+meteor add mrt:url 
 
 ```

@@ -1,8 +1,0 @@
-{
-	"name": "url",
-	"description": "Meteor wrapper for node-url",
-	"homepage": "https://github.com/danielqiu/meteor-url",
-	"author": "Daniel Qiu",
-	"version": "0.0.1",
-	"git": "https://github.com/danielqiu/meteor-url.git"
-}
