@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "url": {
+      "version": "0.10.1",
+      "dependencies": {
+        "punycode": {
+          "version": "1.2.4"
+        }
+      }
+    }
+  }
+}
